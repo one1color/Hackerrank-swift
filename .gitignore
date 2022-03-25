@@ -1,3 +1,72 @@
-## Playgrounds
-timeline.xctimeline
-playground.xcworkspace
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@one1color 
+uraimo
+/
+Swift-Playgrounds
+Public
+Code
+Issues
+Pull requests
+Actions
+Security
+Insights
+Swift-Playgrounds/.gitignore
+@uraimo
+uraimo Updated .gitignore
+Latest commit c6445d3 on 13 Feb 2019
+ History
+ 1 contributor
+34 lines (31 sloc)  649 Bytes
+   
+# Xcode
+#
+build/
+xcshareddata/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
+#
+# Pods/
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+
+Carthage/Build
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
