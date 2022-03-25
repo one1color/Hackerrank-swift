@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>import Foundation
+///URL: https://www.hackerrank.com/challenges/simple-array-sum/
+
+func simpleArraySum(ar: [Int]) -&gt; Int {
+    // Write your code here
+    let result = ar.reduce(0, +)
+    return result
+}
+
+//Test
+//Input: [1, 2, 3, 4, 10, 11]
+//expected result : 31
+let testData : [Int] = [1, 2, 3, 4, 10, 11]
+let output = simpleArraySum(ar: testData)
+print(output)
+</string>
+			<key>ModifiedRange</key>
+			<string>{0, 365}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{0, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+</dict>
+</plist>
