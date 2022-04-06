@@ -1,2 +1,4 @@
 # Hackerrank-swift
-Hackerrank swift solution
+Swift algorithm solution for Hackerrank.
+
+If you have any suggestion, improvement, please send a pull request :)
